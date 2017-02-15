@@ -8,7 +8,7 @@
 #include <ESP8266WebServer.h>
 
 const char* ssid = "Livebox-B7B0";
-const char* password = "pTXMsVp3CGZiQj6tJy";
+const char* password = "...";
 #define RELAIS 15  // vers le relais
 #define INT D3  // vers l'interupteur
 ESP8266WebServer server(80);
